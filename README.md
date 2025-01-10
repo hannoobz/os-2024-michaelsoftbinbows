@@ -52,7 +52,7 @@ Template dasar untuk IF2230 - Sistem Operasi 2024
 ![](Binbows.png)
 
 MichaelSoft Binbows adalah sebuah OS berbasis linux yang dibuat sebagai tugas besar IF 2230, Sistem Operasi.
-Selain sebagai pelengkap nilai pada mata kuliah tersebut, tugas ini juga dibuat untuk mengenang MichaelSoft Binbow yang ada di dunia nyata (pic related), yang sayangnya sudah bangkrut. Dengan dibuatnya sistem operasi ini, diharapkan namanya akan tetap dikenang sepanjang Linus Trovalds masih idup.
+Selain sebagai pelengkap nilai pada mata kuliah tersebut, tugas ini juga dibuat untuk mengenang MichaelSoft Binbow yang ada di dunia nyata (pic related), yang sayangnya sudah bangkrut. Dengan dibuatnya sistem operasi ini, diharapkan namanya akan tetap dikenang sepanjang Linus Torvalds masih idup.
 
 ## Features
 
@@ -169,3 +169,7 @@ make run
 ... ga ada - apa di sini, here have a best girl
 
 ![](byebye.gif)
+
+## Disclaimer
+
+Note 10/01/2025: Waktu ngerjain tubes ini yolo trabas doang. Fitur yang kami kerjakan cuma yg wajib doang krn udh stress. Tolong jgn dijudge yh klo kodenya tolol
